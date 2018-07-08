@@ -1,0 +1,6 @@
+" Color scheme
+colorscheme hybrid
+
+:imap jj <Esc>
+
+set clipboard=unnamed,unnamedplus
